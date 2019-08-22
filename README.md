@@ -1,7 +1,7 @@
 # awesome-data-science-workshops
 with a focus on biomedical data science
 
-List of publicly available data science workshops.  [Contributions welcome...]()
+List of publicly available data science workshops.  [Contributions welcome...](https://github.com/stevetsa/awesome-data-science-workshops/blob/master/CONTRIBUTE.md)
 
 
 ## Workshops
